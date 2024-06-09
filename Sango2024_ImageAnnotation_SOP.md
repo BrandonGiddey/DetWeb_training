@@ -24,15 +24,15 @@ Follow the link below to create an account on the DetWeb test site.
 
 Full in your details. For 'Username' Please use your Name and Surname seperated by an underscore e.g., Name_Surname. Click create account.
 
-![Create account](Images\Create_account.jpg)
+![Create account](Images/Create_account.jpg)
 
 Copy the verification code emailed to the address you used to create the acccount.
 
-![Email code](Images\Email_code.jpg)
+![Email code](Images/Email_code.jpg)
 
 You should now see the page below. If not follow the 'Create account on DetWeb' link above and sign in.
 
-![Login page](Images\Login_page.jpg)
+![Login page](Images/Login_page.jpg)
 
 Contact your lab manager or other point of contact requesting permssion to start annoting images!
 
@@ -41,7 +41,7 @@ Contact your lab manager or other point of contact requesting permssion to start
 
 Each image is divided into 15 jobs. The jobs will be demarcated by a blue annotation box. Annotations should be made in the blue box only. If you see an animal outside of the blue box you can annotate it but do not spend time and effort looking outside the blue box as these areas will come up again in another job. 
 
-![Annotation box](Images\AnnotationBox.jpg)
+![Annotation box](Images/AnnotationBox.jpg)
 
 
 ## How to annotate?
@@ -55,13 +55,13 @@ To choose a different species RIGHT CLICK on the icon. A list of options will ap
 To delete an annotation LEFT CLICK delete at the top of the list.
 
 
-![Image annotation](GIF\LeftClick_ImageAnnotation.gif)
+![Image annotation](GIF/LeftClick_ImageAnnotation.gif)
 
 ## What to annotate
 
 Below is a list of annotation choices.
 
-![What to annotate](Images\Annotation_choices.png)
+![What to annotate](Images/Annotation_choices.png)
 
 #### Notes
 
@@ -94,8 +94,8 @@ If you have any of your own tips or techniques please share them!
 
 ## Elephant
 
-![Elephant trainig image](Images\Ele_training.jpg)
+![Elephant trainig image](Images/Ele_training.jpg)
 
-![Elephant trainig image](Images\Ele_training2.jpg)
+![Elephant trainig image](Images/Ele_training2.jpg)
 
-Water
+## Water
