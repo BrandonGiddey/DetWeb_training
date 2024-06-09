@@ -12,7 +12,21 @@ Two 61mp Sony cameras with Zeiss Ventum 21mm fixed focus lenses were housed in a
 
 
 ---
+# Before you get started a quick video tutorial
 
+## Admin user video
+
+<video width="320" height="240" controls>
+  <source src="Videos/DetWeb_Admin_User.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Image annotation 
+
+<video width="320" height="240" controls>
+  <source src="Videos/DetWeb_Image_Annotation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # Getting started
 
