@@ -6,11 +6,6 @@ Sango is a 60 000 ha property located within the Save Valley Conservancy (SVC) i
 
 In September 2024 Sango conducted a photo count alongside their RSO count. A brief methodology of the image aquisition is provided below, however, the objective of this document is to provide training for the manual annotation of these images. Roughly 30 000 images were taken during the survey. 
 
-#### Brief methodology for image aquisition 
-
-Two 61mp Sony cameras with Zeiss Ventum 21mm fixed focus lenses were housed in a pod attached to the fuselage of a Savanna. One camera pointed left and the other right, each set at 36 degrees off the vertical. A Lightware laser range finder (lidar) was used to display actual altitude to the pilot and log distance above ground for each shot. A North dual frequency GPS acquired position and speed information and a Bosch inertial unit allowed aircraft tip, roll and yaw to be recorded. The triggering system controlling the cameras was set at a 2 second interval. This yielded image overlaps of between 30% and 70% depending on where in the image it was assessed and the altitude. Below is an image depicting the flight path (dotted line) and how the images overlapped. Flight paths or transects were orientated east-west and spaced at 750 m intervals (i.e., 375 m either side of the plane). Altitude was kept constant between 300 and 450 feet AGL. Speed was kept constant between 130 and 170 km/h. Roughly 30 000 images were captured during the survey.
-
-
 ---
 # Before you get started a quick video tutorial
 
