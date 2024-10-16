@@ -34,7 +34,7 @@ Two 61mp Sony cameras with Zeiss Ventum 21mm fixed focus lenses were housed in a
 
 Follow the link below to create an account on the DetWeb test site. 
 
-[Create account on DetWeb](https://test.d3jsnnuqgxtn1n.amplifyapp.com/)
+[Create account on DetWeb](http://prod.d2akirfrcp5tqu.amplifyapp.com/)
 
 Full in your details. For 'Username' Please use your Name and Surname seperated by an underscore e.g., Name_Surname. Click create account.
 
