@@ -179,10 +179,10 @@ The eland are a tan or light brown colour, often with a slight reddish tint. The
 
 If you are not able to identify which species of animal it is use unidentifiable animal. Sometimes the quality of the image is not good enough or the animal is partially obstructed a tree. 
 
-![Unidentifiable animal training image](Images\Training_images\Unidentifiable_animal\Unidentifiable_training_121346.png)
-![Unidentifiable animal training image](Images\Training_images\Unidentifiable_animal\Unidentifiable_training_110635.png)
-![Unidentifiable animal training image](Images\Training_images\Unidentifiable_animal\Unidentifiable_training_110523.png)
-![Unidentifiable animal training image](Images\Training_images\Unidentifiable_animal\Unidentifiable_training_105311.png)
+![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_121346.png)
+![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_110635.png)
+![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_110523.png)
+![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_105311.png)
 
 ## Zebra
 Zebra are known for their destinctive black and white stripes. They have a compact, sturdy body with a barrel-shaped torso. 
