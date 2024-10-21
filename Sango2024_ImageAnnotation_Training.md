@@ -8,8 +8,8 @@ In September 2024 Sango conducted a photo count alongside their RSO count. The o
 
 ## Notes
 
-- Please report any issues or post photos of unidentifiable animals and unkown objects on the [detweb-dev chat on slack](https://tzcrc.slack.com/archives/C07S1JYFG1K) 
-- Contact Brandon at brandon.giddey@gmail.com if required
+- Please report any issues and post photos of unidentifiable animals and unkown objects on the [detweb-dev chat on slack](https://tzcrc.slack.com/archives/C07S1JYFG1K) 
+- Alternatively you can contact Brandon at brandon.giddey@gmail.com
 
 ---
 
@@ -55,7 +55,7 @@ Each image is divided into jobs. The jobs will be demarcated by a blue annotatio
 ### Video tutorial for manually revieiwing automated annotations
 
 <video width="320" height="240" controls>
-  <source src="Videos\Manual_check_of_scoutbot_annotations.mkv" type="video/mkv">
+  <source src="Videos\Manual_check_of_scoutbot_annotations.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
