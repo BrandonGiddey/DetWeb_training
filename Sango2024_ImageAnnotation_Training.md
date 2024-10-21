@@ -112,7 +112,7 @@ If you have any of your own tips or techniques please share them on the detweb-d
 ## Impala
 Impala can be really difficult to identify. A few tricks are to look at size and colour. Impala are a rich redish orange or coppery tan with a white underside which is sometimes visiable in images and males have cureved horns.  They can easily be confused with eland which are a warm tan or light brown with undertones of grey, however, eland are much larger and have straight horns. Impala are usually in herds and seldom on their own, if you find one be sure to look out for more. Remember to look at shadows, male impalas have distintive horns that make a unique shadow while females can be distiguishable by the shadow their ears make.
 
-![Impala training image](Images\Training_images\Impala\Impala_training_103409.png)
+![Impala training image](Images/Impala_training_103409.png)
 ![Impala training image](Images\Training_images\Impala\Imapala_training_103550.png)
 ![Impala training image](Images\Training_images\Impala\Imapala_training_111546.png)
 ![Impala training image](Images\Training_images\Impala\Impala_training_110427.png)
@@ -179,7 +179,7 @@ The eland are a tan or light brown colour, often with a slight reddish tint. The
 
 If you are not able to identify which species of animal it is use unidentifiable animal. Sometimes the quality of the image is not good enough or the animal is partially obstructed a tree. 
 
-![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_121346.png)
+![Unidentifiable animal training image]()
 ![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_110635.png)
 ![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_110523.png)
 ![Unidentifiable animal training image](Images/Training_images/Unidentifiable_animal/Unidentifiable_training_105311.png)
