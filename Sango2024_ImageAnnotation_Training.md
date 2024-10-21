@@ -79,7 +79,7 @@ Below is a list of annotation choices
 
 and a list of shortcut keys.
 
-![Shortcut keys](Images\Shortcut_Keys.png)
+![Shortcut keys](Images/Shortcut_Keys.png)
 
 #### Notes
 
