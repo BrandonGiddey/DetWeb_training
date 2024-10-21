@@ -109,96 +109,226 @@ Scan from left to right - opposite to reading. It helps to keep focus and preven
 If you have any of your own tips or techniques please share them on the detweb-dev chat on slack!
   
 
-## Impala
+# Impala
 Impala can be really difficult to identify. A few tricks are to look at size and colour. Impala are a rich redish orange or coppery tan with a white underside which is sometimes visiable in images and males have cureved horns.  They can easily be confused with eland which are a warm tan or light brown with undertones of grey, however, eland are much larger and have straight horns. Impala are usually in herds and seldom on their own, if you find one be sure to look out for more. Remember to look at shadows, male impalas have distintive horns that make a unique shadow while females can be distiguishable by the shadow their ears make.
 
 ![Impala training image](Images/Impala_training_103409.png)
-![Impala training image](Images/Imapala_training_103550.png)
-![Impala training image](Images/Imapala_training_111546.png)
-![Impala training image](Images/Impala_training_110427.png)
-![Impala training image](Images/Impala_traning_111714.png)
-![Impala training image](Images/Impala_training_103833.png)
+<br>
+<br>
 
-## Giraffe 
+![Impala training image](Images/Impala_training_103550.png)
+<br>
+<br>
+
+![Impala training image](Images/Impala_training_111546.png)
+<br>
+<br>
+
+![Impala training image](Images/Impala_training_110427.png)
+<br>
+<br>
+
+![Impala training image](Images/Impala_traning_111714.png)
+<br>
+<br>
+
+![Impala training image](Images/Impala_training_103833.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Giraffe 
 
 ![Giraffe training image](Images/Giraffe_training_073726.png)
-![Giraffe training image](Images/Giraffe_training_105606.png)
-![Giraffe training image](Images/Giraffe_training_121246.png)
+<br>
+<br>
 
-## Buffalo
+![Giraffe training image](Images/Giraffe_training_105606.png)
+<br>
+<br>
+
+![Giraffe training image](Images/Giraffe_training_121246.png)
+<br>
+<br>
+<br>
+<br>
+
+# Buffalo
 
 ![Buffalo training image](Images/Buffalo_training_150139.png)
-![Buffalo training image](Images/Buffalo_training_150151.png)
+<br>
+<br>
 
-## Elephant
+![Buffalo training image](Images/Buffalo_training_150151.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Elephant
 
 ![Elephant training image](Images/Elephant_training_1.jpg)
-![Elephant training image](Images/Elephant_training_2.jpg)
-![Elephant training image](Images/Elephant_training_112537.png)
-![Elephant training image](Images/Elephant_training_150932.png)
+<br>
+<br>
 
-## Kudu
+![Elephant training image](Images/Elephant_training_2.jpg)
+<br>
+<br>
+
+![Elephant training image](Images/Elephant_training_112537.png)
+<br>
+<br>
+
+![Elephant training image](Images/Elephant_training_150932.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Kudu
 The Kudu is generally light brown or grayish-brown. They have large ears which can often be seen in images, sometimes creating a distintive shadow.
 
 ![Kudu training image](Images/Kudu_training_140634.png)
-![Kudu training image](Images/Kudu_training_140504.png)
+<br>
+<br>
 
-## Jackal 
+![Kudu training image](Images/Kudu_training_140504.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Jackal 
 Both the black backed and side striped jackal occur on Sango, however, the former is more common. 
 
 ![Jackal training image](Images/Jackal_training_120928.png)
+<br>
+<br>
+<br>
+<br>
 
-## Baobab
+
+# Baobab
 
 ![Baobab training image](Images/Baobab_training_110802.png)
-![Baobab training image](Images/Baobab_training_50811.png)
-![Baobab training image](Images/Baobab_training_072227.png)
-![Baobab training image](Images/Baobab_training_072256.png)
+<br>
+<br>
 
-## Blue wildebeest
+![Baobab training image](Images/Baobab_training_50811.png)
+<br>
+<br>
+
+![Baobab training image](Images/Baobab_training_072227.png)
+<br>
+<br>
+
+![Baobab training image](Images/Baobab_training_072256.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Blue wildebeest
 The blue wildebeest is a grayish-blue or slate-gray color. Its body is often marked with darker vertical stripes, giving it a brindled appearance. They have muscular body with a distinctive, sloped back that gives it a unique profile.  
 
 ![Blue wildebeest training image](Images/Bluewildebeest_training_073209.png)
+<br>
+<br>
+<br>
+<br>
+
 
 This wildebeest is really difficult to identify, however, he was a part of a larger herd captured in the image. So based on the colouration alone it can be confirmed this is wildebeest. 
 
 ![Blue wildebeest training image](Images/Bluewildebeest_traning_073304.png)
+<br>
+<br>
+<br>
+<br>
 
-## Lion
+
+# Lion
 
 ![Lion training image](Images/Lion_training_131716.png)
+<br>
+<br>
+<br>
+<br>
 
-## Eland
+
+# Eland
 The eland are a tan or light brown colour, often with a slight reddish tint. They also have characteristic series of thin white stripes running vertically along their sides. Eland have a muscular body, supported by long, slender legs. They have a slight hump over the shoulders and a short thick neck. Both male and female have straight, spiraling horns. 
 
 ![Eland training image](Images/Eland_training_132324.png)
-![Eland training image](Images/Eland_training_132309.png)
-![Eland training image](Images/Eland_training_135841.png)
+<br>
+<br>
 
-## Unidentifiable animal
+![Eland training image](Images/Eland_training_132309.png)
+<br>
+<br>
+
+![Eland training image](Images/Eland_training_135841.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Unidentifiable animal
 
 If you are not able to identify which species of animal it is use unidentifiable animal. Sometimes the quality of the image is not good enough or the animal is partially obstructed a tree. 
 
 ![Unidentifiable animal training image](Images/Unidentifiable_training_121346.png)
-![Unidentifiable animal training image](Images/Unidentifiable_training_110635.png)
-![Unidentifiable animal training image](Images/Unidentifiable_training_110523.png)
-![Unidentifiable animal training image](Images/Unidentifiable_training_105311.png)
+<br>
+<br>
 
-## Zebra
+![Unidentifiable animal training image](Images/Unidentifiable_training_110635.png)
+<br>
+<br>
+
+![Unidentifiable animal training image](Images/Unidentifiable_training_110523.png)
+<br>
+<br>
+
+![Unidentifiable animal training image](Images/Unidentifiable_training_105311.png)
+<br>
+<br>
+<br>
+<br>
+
+# Zebra
 Zebra are known for their destinctive black and white stripes. They have a compact, sturdy body with a barrel-shaped torso. 
 
 ![Zebra training image](Images/Zebra_training_073437.png)
-![Zebra training image](Images/Zebra_training_17132449.png)
+<br>
+<br>
 
-## Waterpoint
+![Zebra training image](Images/Zebra_training_17132449.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Waterpoint
 
 ![Waterpoint training image](Images/Waterpoint_training_152334.png)
-![Waterpoint training image](Images/Waterpoint_training_150027.png)
+<br>
+<br>
 
-## Rhino
+![Waterpoint training image](Images/Waterpoint_training_150027.png)
+<br>
+<br>
+<br>
+<br>
+
+
+# Rhino
 
 ![Rhino training image](Images/Rhino_training_222908.png)
-
-
-
-
