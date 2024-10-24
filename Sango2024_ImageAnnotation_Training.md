@@ -10,6 +10,15 @@ In September 2024 Sango conducted a photo count alongside their RSO count. The o
 
 - Please report any issues and post photos of unidentifiable animals and unkown objects on the [detweb-dev chat on slack](https://tzcrc.slack.com/archives/C07S1JYFG1K) 
 - Alternatively you can contact Brandon at brandon.giddey@gmail.com
+- If an image is not loading for whatever reason do not move to the next image. Instead refresh the page and a new image should appear. By clicking next on the image you are essentially telling the system that image has been checked, when if fact it has not. When you refresh that image will be put back into the queue.
+- All progress and user stats are automatically tracked in debtweb. Users with admin rights have access to these stats. 
+- NB! Each blue box is called a job. You are allowed to annotate outside of the blue box. However, there is no need to spend a lot of time looking outside the box as theres areas will appear in another job. For example, if you come across a big elephant herd it is worth zooming out and annotating the entire herd even if some individuals are far outside of the box. Just dont go looking far outside the box as you will be waisting time!  
+- You do not need to worry about saving, detweb saves and tracks your progress automatically. 
+- Jobs are in a random sequence so you will get images that may look like very different places directly after the other.
+- If an update is pushed while you are working it is important to refresh the page so that you are working on the latest version. 
+- Learn the hot keys, it will allow you to annotate much faster. Use the arrow keys to move to the next image. Hover over the legend marker in the bottom right corner to see all the categories and their hotkeys.
+- You can click on a category in the legend to make that your default for mouse click annotations.
+
 
 ---
 
